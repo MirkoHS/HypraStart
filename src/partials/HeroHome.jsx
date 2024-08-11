@@ -56,7 +56,7 @@ function HeroHome() {
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-16">
             <h1 className="h1 mb-4" data-aos="fade-up">
-              Security Landing Web
+              HypraSoft dlsajdla
             </h1>
             <p
               className="text-xl text-graySecurity-400 mb-8"
